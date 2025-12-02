@@ -1,6 +1,4 @@
 ﻿  project.c
 C:\Users\USER\source\repos\공부 타이머\공부 타이머\project.c(82,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\USER\source\repos\공부 타이머\공부 타이머\project.c(127,12): warning C4566: 유니버설 문자 이름 '\u2699'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
-C:\Users\USER\source\repos\공부 타이머\공부 타이머\project.c(186,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\USER\source\repos\공부 타이머\공부 타이머\project.c(209,20): warning C4566: 유니버설 문자 이름 '\U0001F4AA'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\source\repos\공부 타이머\공부 타이머\project.c(188,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   공부 타이머.vcxproj -> C:\Users\USER\source\repos\공부 타이머\x64\Debug\공부 타이머.exe
